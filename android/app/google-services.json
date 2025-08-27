@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "460994090387",
+    "project_id": "rdp-todo-list-27cab",
+    "storage_bucket": "rdp-todo-list-27cab.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460994090387:android:dc2af4d7a83639248b0466",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2TCIp-UDMxXCDzA5PuguLTmsuV6ionV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
